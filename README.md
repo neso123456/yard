@@ -1,3 +1,2 @@
 # 7Yard
-
-[Let's start discussion](https://github.com/7ednet/yard/discussions)
+Wrote filtered results to ab-results-check-unique.txt-filtered.json
